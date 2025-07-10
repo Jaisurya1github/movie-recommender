@@ -27,5 +27,5 @@ A simple collaborative filtering-based movie recommendation web app built using 
 
 1. **Clone the repo**
 ```bash
-git clone https://github.com/your-username/movie-recommender.git
+git clone https://github.com/Jaisurya1github/movie-recommender.git
 cd movie-recommender
